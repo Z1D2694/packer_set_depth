@@ -6,8 +6,17 @@ A lightweight, self-contained web application for visualizing and analyzing dire
 ---
 
 ## Screenshots
+### Input
+![Input](assets/variables.png)
 
-> _Upload your `.xlsx` / `.xls` / `.csv` survey file to get started._
+### 2D View — TVD vs MD
+![2D chart](assets/2d_chart.png)
+
+### 3D Trajectory
+![3D view](assets/3d_chart.png)
+
+### Packer Calculator
+![Packer calculator](assets/results.png)
 
 ---
 
