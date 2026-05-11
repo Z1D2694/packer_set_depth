@@ -135,6 +135,7 @@ No build step, bundler, or framework is required for the HTML version — everyt
 ├── visualizador_pozo.html   # Main application (self-contained)
 ├── launcher.py              # pywebview entry point for the .exe build
 ├── build_exe.bat            # One-click Windows build script
+├── assets                   # Images  
 └── README.md
 ```
 
